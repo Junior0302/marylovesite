@@ -1,0 +1,9 @@
+# Répertoires à exclure du dépôt
+logs/
+infinit/
+web4/
+
+# Fichiers et artefacts système
+Thumbs.db
+Desktop.ini
+*.log
